@@ -1,18 +1,25 @@
-# 🌟 Personal Portfolio Website
+# 💼 Personal Portfolio
 
-This is my personal portfolio built using **React.js**.  
-It showcases my projects, skills, and contact information.
+This is a responsive portfolio website.It showcases my projects, skills, resume, and contact details.
 
-## 🚀 Live Demo
+## 🔗 Live Demo
 
-[Click here to view it on Netlify](https://your-netlify-link.netlify.app)
+👉 [https://dhanajeyan-ganesan.netlify.app](https://dhanajeyan-ganesan.netlify.app)
 
-## 🛠️ Built With
+## 🚀 Features
 
-- React.js
-- HTML/CSS
-- JavaScript
-- Visual Studio Code
+* Responsive and mobile-friendly design
+* Project showcase section
+* Skills overview
+* Resume download link
+* Contact section with social links
 
-## 📂 Folder Structure
+## 🛠 Tech Stack
 
+* React.js
+* JavaScript
+* HTML5 & CSS3
+
+## 📬 Contact
+
+* Email: [dhanajean112004@gmail.com](mailto:dhanajean112004@gmail.com)
